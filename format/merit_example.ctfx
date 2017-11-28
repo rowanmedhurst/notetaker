@@ -1,0 +1,152 @@
+{{ctfxtree}
+{treedata '0' 'example 1'}
+{treedata '0' 'example 2'}
+{treedata '0' 'example 3'}
+{treedata '1' '[_info_]'}
+{treedata '1' '[_todo_]'}
+}
+
+{{ctf '1'}{c3}THIS IS A HEADING
+/p {cx}this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p 
+/p {c2}THIS IS A HEADING
+/p {cx}this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p 
+/p {c1}THIS IS A HEADING
+/p {cx}this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p 
+/p THIS IS A HEADING
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p 
+/p 
+/p                                                                                      This page is best.
+/p 
+/p }
+
+{{ctf '2'}{cx}THIS IS A HEADING
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p 
+/p THIS IS A HEADING
+/p this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p 
+/p THIS IS A HEADING
+/p this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p 
+/p THIS IS A HEADING
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p 
+/p 
+/p                                                                                      This should be ok.
+/p 
+/p                                                                                      Ink!
+/p 
+/p                                                                                      Mention mono preview.
+/p 
+/p                                                                                      Paper vs Screens.
+/p 
+/p                                                                                      This is second best.
+/p }
+
+{{ctf '3'}{cx}THIS IS A HEADING
+/p {c3}this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p this text is in blue this text is in blue this text is in blue this text is in blue 
+/p {cx}
+/p THIS IS A HEADING
+/p {c2}this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p this text is in green this text is in green this text is in green this text is in gr
+/p {cx}
+/p THIS IS A HEADING
+/p {c1}this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p this text is in red this text is in red this text is in red this text is in red this
+/p {cx}
+/p THIS IS A HEADING
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p this text is in black this text is in black this text is in black this text is in bl
+/p 
+/p 
+/p                                                                                      This is hard to read and wastes lots of ink.
+/p 
+/p                                                                                      But looks nice.
+/p 
+/p                                                                                      Third best.
+/p }
+
+{{ctf '0'}{c2}The Information Principle
+/p {cx}  - can extra information be added with italics?
+/p 
+/p 
+/p {c3}The Importance Principle
+/p {cx}  - everything on the page will be important
+/p   - the format forces rapid file creation - no underline
+/p 
+/p 
+/p {c1}What Will It Be Used For?
+/p {cx}  - air traffic control
+/p   - nuclear power stations
+/p   - military
+/p   - gambling systems
+/p   - any control system
+/p   - and basic notes
+/p 
+/p 
+/p 
+/p {s}                   >
+/p {/s}{c2}ACTIVE{c3}PRINT
+/p {cx} - ink spares need to be kept in this model
+/p  - {c3}doctors{cx} do not use this much
+/p 
+/p {s}                   >
+/p {/s}CTF is not for writing stories
+/p 
+/p }
+
+{{ctf '0'}{c2}CRUSHING STABILITY
+/p 
+/p     - 'like' a rock -  with a light sweat fragrance
+/p {cx}
+/p 
+/p {c3}node redirection - X3 (paste as sibling, paste as child, move)
+/p {cx}
+/p {c1}research_
+/p 
+/p 
+/p 
+/p {c3}CONTROL TEXT EDITOR {c2}- v 1.0
+/p 
+/p {c3}NOTETAKER{c2} - v 1.2
+/p {c1}
+/p 
+/p }
+

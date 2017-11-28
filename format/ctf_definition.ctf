@@ -1,0 +1,27 @@
+{{ctf '0'}{c2}////---------------------------------------------------------------------------
+/p //// CTF 
+/p ////    - Control Text Format, or
+/p ////    - controlled text format'
+/p ////    - 3 colours + strikethrough
+/p ////    -- standard colours are mid-red, mid-green, and bright blue
+/p ////    -- tags /{/}  /{s/}/{//s/}  /{cx/}  /{c1/}  /{c2/}  /{c3/}
+/p ////    ---- BACKUP COLOURS  1//blue 2//brown 3//grey
+/p ////    ---- curly braces are represented using  ///{  and ///}                    
+/p ////    ---- slashes are represented using ////
+/p ////    ---- newline is signified by //p
+/p ////
+/p ////  [ this unit is for control systems basic memos etc. ]
+/p ////  [ the mono printing mode is more important than the backup colours.]
+/p ////---------------------------------------------------------------------------
+/p {cx}                                                               02//01//2014
+/p 
+/p 
+/p {c1}////---------------------------------------------------------------------------
+/p //// CTFX 
+/p ////    - Control Text Format eXtended
+/p ////
+/p ////   ctf text in a tree format
+/p ////---------------------------------------------------------------------------
+/p {cx}                                                               02//01//2014
+/p }
+
